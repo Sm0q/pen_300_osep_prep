@@ -38,14 +38,14 @@ Collection of resources used in prep for OSEP, including course material progres
   - [x] 2.2 Windows Concepts
     - [x] 2.2.1 Windows on Windows
     - [x] 2.2.2 Win32 APIs
-    - [ ] 2.2.3 Windows Registry
-  - [ ] 2.3 Wrapping Up
+    - [x] 2.2.3 Windows Registry
+  - [x] 2.3 Wrapping Up
 - [ ] 3. Client Side Execution With Office
-  - [ ] 3.1 Will You Be My Dropper
-    - [ ] 3.1.1 Staged vs. Non-Staged Payloads
-    - [ ] 3.1.2 Building Our Droppers
-      - [ ] 3.1.2.1 Exercise
-    - [ ] 3.1.3 HTML Smuggling
+  - [x] 3.1 Will You Be My Dropper
+    - [x] 3.1.1 Staged vs. Non-Staged Payloads
+    - [x] 3.1.2 Building Our Droppers
+      - [x] 3.1.2.1 Exercise
+    - [x] 3.1.3 HTML Smuggling
       - [ ] 3.1.3.1 Exercises
   - [ ] 3.2 Phishing With Microsoft Office
     - [ ] 3.2.1 Installing Microsoft Office
