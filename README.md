@@ -49,7 +49,7 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 3.1.3.1 Exercises
   - [ ] 3.2 Phishing With Microsoft Office
     - [x] 3.2.1 Installing Microsoft Office
-      - [ ] 3.2.1.1 Exercise
+      - [x] 3.2.1.1 Exercise
     - [ ] 3.2.2 Introduction to VBA
       - [ ] 3.2.2.1 Exercises
     - [ ] 3.2.3 Let PowerShell Help Us
