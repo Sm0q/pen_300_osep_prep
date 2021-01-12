@@ -68,7 +68,7 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 3.5.1.1 Exercises
     - [x] 3.5.2 Porting Shellcode Runner to PowerShell
       - [x] 3.5.2.1 Exercises
-  - [ ] 3.6 Keep That PowerShell in Memory
+  - [x] 3.6 Keep That PowerShell in Memory
     - [x] 3.6.1 Add-Type Compilation
       - [X] 3.6.1.1 Exercises
     - [x] 3.6.2 Leveraging UnsafeNativeMethods
@@ -86,13 +86,13 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 3.7.3.1 Exercise
   - [x] 3.8 Wrapping Up
 - [ ] 4. Client Side Code Execution With Windows Script Host
-  - [ ] 4.1 Creating a Basic Dropper in Jscript
+  - [x] 4.1 Creating a Basic Dropper in Jscript
     - [x] 4.1.1 Execution of Jscript on Windows
-      - [ ] 4.1.1.1 Exercises
-    - [ ] 4.1.2 Jscript Meterpreter Dropper
-      - [ ] 4.1.2.1 Exercises
+      - [x] 4.1.1.1 Exercises
+    - [x] 4.1.2 Jscript Meterpreter Dropper
+      - [x] 4.1.2.1 Exercises
   - [ ] 4.2 Jscript and C#
-    - [ ] 4.2.1 Introduction to Visual Studio
+    - [x] 4.2.1 Introduction to Visual Studio
       - [ ] 4.2.1.1 Exercises
     - [ ] 4.2.2 DotNetToJscript
       - [ ] 4.2.2.1 Exercises
