@@ -77,12 +77,12 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 3.6.3.1 Exercises
     - [x] 3.6.4 Reflection Shellcode Runner in PowerShell
       - [x] 3.6.4.1 Exercises
-  - [ ] 3.7 Talking To The Proxy
-    - [ ] 3.7.1 PowerShell Proxy-Aware Communication
-      - [ ] 3.7.1.1 Exercises
-    - [ ] 3.7.2 Fiddling With The User-Agent
-      - [ ] 3.7.2.1 Exercises
-    - [ ] 3.7.3 Give Me A SYSTEM Proxy
+  - [x] 3.7 Talking To The Proxy
+    - [x] 3.7.1 PowerShell Proxy-Aware Communication
+      -  [x] 3.7.1.1 Exercises
+    - [x] 3.7.2 Fiddling With The User-Agent
+      - [x] 3.7.2.1 Exercises
+    - [x] 3.7.3 Give Me A SYSTEM Proxy
       - [ ] 3.7.3.1 Exercise
   - [ ] 3.8 Wrapping Up
 - [ ] 4. Client Side Code Execution With Windows Script Host
