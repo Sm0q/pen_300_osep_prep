@@ -83,11 +83,11 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 3.7.2 Fiddling With The User-Agent
       - [x] 3.7.2.1 Exercises
     - [x] 3.7.3 Give Me A SYSTEM Proxy
-      - [ ] 3.7.3.1 Exercise
-  - [ ] 3.8 Wrapping Up
+      - [x] 3.7.3.1 Exercise
+  - [x] 3.8 Wrapping Up
 - [ ] 4. Client Side Code Execution With Windows Script Host
   - [ ] 4.1 Creating a Basic Dropper in Jscript
-    - [ ] 4.1.1 Execution of Jscript on Windows
+    - [x] 4.1.1 Execution of Jscript on Windows
       - [ ] 4.1.1.1 Exercises
     - [ ] 4.1.2 Jscript Meterpreter Dropper
       - [ ] 4.1.2.1 Exercises
