@@ -96,8 +96,8 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 4.2.1.1 Exercises
     - [x] 4.2.2 DotNetToJscript
       - [x] 4.2.2.1 Exercises
-    - [ ] 4.2.3 Win32 API Calls From C#
-      - [ ] 4.2.3.1 Exercise
+    - [x] 4.2.3 Win32 API Calls From C#
+      - [x] 4.2.3.1 Exercise
     - [ ] 4.2.4 Shellcode Runner in C#
       - [ ] 4.2.4.1 Exercise
     - [ ] 4.2.5 Jscript Shellcode Runner
