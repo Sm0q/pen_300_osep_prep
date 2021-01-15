@@ -100,10 +100,10 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 4.2.3.1 Exercise
     - [x] 4.2.4 Shellcode Runner in C#
       - [x] 4.2.4.1 Exercise
-    - [ ] 4.2.5 Jscript Shellcode Runner
+    - [x] 4.2.5 Jscript Shellcode Runner
       - [x] 4.2.5.1 Exercises
-      - [ ] 4.2.5.2 Extra Mile
-    - [ ] 4.2.6 SharpShooter
+      - [x] 4.2.5.2 Extra Mile
+    - [x] 4.2.6 SharpShooter
       - [ ] 4.2.6.1 Exercises
   - [ ] 4.3 In-memory PowerShell Revisited
     - [ ] 4.3.1 Reflective Load
