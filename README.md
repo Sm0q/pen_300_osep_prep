@@ -104,11 +104,11 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 4.2.5.1 Exercises
       - [x] 4.2.5.2 Extra Mile
     - [x] 4.2.6 SharpShooter
-      - [ ] 4.2.6.1 Exercises
+      - [x] 4.2.6.1 Exercises
   - [x] 4.3 In-memory PowerShell Revisited
     - [x] 4.3.1 Reflective Load
-      - [ ] 4.3.1.1 Exercises
-  - [ ] 4.4 Wrapping Up
+      - [x] 4.3.1.1 Exercises
+  - [x] 4.4 Wrapping Up
 - [ ] 5. Process Injection and Migration
   - [ ] 5.1 Finding a Home for Our Shellcode
     - [ ] 5.1.1 Process Injection and Migration Theory
