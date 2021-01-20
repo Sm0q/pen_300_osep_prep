@@ -85,13 +85,13 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 3.7.3 Give Me A SYSTEM Proxy
       - [x] 3.7.3.1 Exercise
   - [x] 3.8 Wrapping Up
-- [ ] 4. Client Side Code Execution With Windows Script Host
+- [x] 4. Client Side Code Execution With Windows Script Host
   - [x] 4.1 Creating a Basic Dropper in Jscript
     - [x] 4.1.1 Execution of Jscript on Windows
       - [x] 4.1.1.1 Exercises
     - [x] 4.1.2 Jscript Meterpreter Dropper
       - [x] 4.1.2.1 Exercises
-  - [ ] 4.2 Jscript and C#
+  - [x] 4.2 Jscript and C#
     - [x] 4.2.1 Introduction to Visual Studio
       - [x] 4.2.1.1 Exercises
     - [x] 4.2.2 DotNetToJscript
@@ -110,9 +110,9 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 4.3.1.1 Exercises
   - [x] 4.4 Wrapping Up
 - [ ] 5. Process Injection and Migration
-  - [ ] 5.1 Finding a Home for Our Shellcode
-    - [ ] 5.1.1 Process Injection and Migration Theory
-    - [ ] 5.1.2 Process Injection in C#
+  - [x] 5.1 Finding a Home for Our Shellcode
+    - [x] 5.1.1 Process Injection and Migration Theory
+    - [x] 5.1.2 Process Injection in C#
       - [ ] 5.1.2.1 Exercises
       - [ ] 5.1.2.2 Extra Mile
     - [ ] 5.2 DLL Injection
