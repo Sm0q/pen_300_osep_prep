@@ -113,8 +113,8 @@ Collection of resources used in prep for OSEP, including course material progres
   - [x] 5.1 Finding a Home for Our Shellcode
     - [x] 5.1.1 Process Injection and Migration Theory
     - [x] 5.1.2 Process Injection in C#
-      - [ ] 5.1.2.1 Exercises
-      - [ ] 5.1.2.2 Extra Mile
+      - [x] 5.1.2.1 Exercises
+      - [x] 5.1.2.2 Extra Mile
     - [ ] 5.2 DLL Injection
       - [ ] 5.2.1 DLL Injection Theory
       - [ ] 5.2.2 DLL Injection with C#
