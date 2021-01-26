@@ -109,7 +109,7 @@ Collection of resources used in prep for OSEP, including course material progres
     - [x] 4.3.1 Reflective Load
       - [x] 4.3.1.1 Exercises
   - [x] 4.4 Wrapping Up
-- [ ] 5. Process Injection and Migration
+- [x] 5. Process Injection and Migration
   - [x] 5.1 Finding a Home for Our Shellcode
     - [x] 5.1.1 Process Injection and Migration Theory
     - [x] 5.1.2 Process Injection in C#
@@ -123,11 +123,11 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 5.3.1 Reflective DLL Injection Theory
       - [x] 5.3.2 Reflective DLL Injection in PowerShell
         - [x] 5.3.2.1 Exercises
-    - [ ] 5.4 Process Hollowing
+    - [x] 5.4 Process Hollowing
       - [x] 5.4.1 Process Hollowing Theory
       - [x] 5.4.2 Process Hollowing in C#
-        - [ ] 5.4.2.1 Exercises
-    - [ ] 5.5 Wrapping Up
+        - [x] 5.4.2.1 Exercises
+    - [x] 5.5 Wrapping Up
   - [ ] 6. Introduction to Antivirus Evasion
     - [ ] 6.1 Antivirus Software Overview
     - [ ] 6.2 Simulating the Target Environment
