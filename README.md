@@ -129,19 +129,19 @@ Collection of resources used in prep for OSEP, including course material progres
         - [x] 5.4.2.1 Exercises
     - [x] 5.5 Wrapping Up
   - [ ] 6. Introduction to Antivirus Evasion
-    - [ ] 6.1 Antivirus Software Overview
-    - [ ] 6.2 Simulating the Target Environment
-    - [ ] 6.3 Locating Signatures in Files
-        - [ ] 6.3.1.1 Exercise
-    - [ ] 6.4 Bypassing Antivirus with Metasploit
-      - [ ] 6.4.1 Metasploit Encoders
-        - [ ] 6.4.1.1 Exercise
-      - [ ] 6.4.2 Metasploit Encryptors
-        - [ ] 6.4.2.1 Exercises
-    - [ ] 6.5 Bypassing Antivirus with C#
-      - [ ] 6.5.1 C# Shellcode Runner vs Antivirus
-        - [ ] 6.5.1.1 Exercises
-      - [ ] 6.5.2 Encrypting the C# Shellcode Runner
+    - [x] 6.1 Antivirus Software Overview
+    - [x] 6.2 Simulating the Target Environment
+    - [x] 6.3 Locating Signatures in Files
+        - [x] 6.3.1.1 Exercise
+    - [x] 6.4 Bypassing Antivirus with Metasploit
+      - [x] 6.4.1 Metasploit Encoders
+        - [x] 6.4.1.1 Exercise
+      - [x] 6.4.2 Metasploit Encryptors
+        - [x] 6.4.2.1 Exercises
+    - [x] 6.5 Bypassing Antivirus with C#
+      - [x] 6.5.1 C# Shellcode Runner vs Antivirus
+        - [x] 6.5.1.1 Exercises
+      - [x] 6.5.2 Encrypting the C# Shellcode Runner
         - [ ] 6.5.2.1 Exercises
     - [ ] 6.6 Messing with Our Behavior
       - [ ] 6.6.1 Simple Sleep Timers
