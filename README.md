@@ -142,9 +142,9 @@ Collection of resources used in prep for OSEP, including course material progres
       - [x] 6.5.1 C# Shellcode Runner vs Antivirus
         - [x] 6.5.1.1 Exercises
       - [x] 6.5.2 Encrypting the C# Shellcode Runner
-        - [ ] 6.5.2.1 Exercises
+        - [X] 6.5.2.1 Exercises
     - [ ] 6.6 Messing with Our Behavior
-      - [ ] 6.6.1 Simple Sleep Timers
+      - [X] 6.6.1 Simple Sleep Timers
         - [ ] 6.6.1.1 Exercises
       - [ ] 6.6.2 Non-emulated APIs
         - [ ] 6.6.2.1 Exercises
