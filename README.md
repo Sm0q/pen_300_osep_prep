@@ -143,16 +143,16 @@ Collection of resources used in prep for OSEP, including course material progres
         - [x] 6.5.1.1 Exercises
       - [x] 6.5.2 Encrypting the C# Shellcode Runner
         - [X] 6.5.2.1 Exercises
-    - [ ] 6.6 Messing with Our Behavior
+    - [X] 6.6 Messing with Our Behavior
       - [X] 6.6.1 Simple Sleep Timers
-        - [ ] 6.6.1.1 Exercises
-      - [ ] 6.6.2 Non-emulated APIs
-        - [ ] 6.6.2.1 Exercises
-    - [ ] 6.7 Office Please Bypass Antivirus
-      - [ ] 6.7.1 Bypassing Antivirus in VBA
-        - [ ] 6.7.1.1 Exercises
-      - [ ] 6.7.2 Stomping On Microsoft Word
-        - [ ] 6.7.2.1 Exercises
+        - [X] 6.6.1.1 Exercises
+      - [X] 6.6.2 Non-emulated APIs
+        - [X] 6.6.2.1 Exercises
+    - [X] 6.7 Office Please Bypass Antivirus
+      - [X] 6.7.1 Bypassing Antivirus in VBA
+        - [X] 6.7.1.1 Exercises
+      - [X] 6.7.2 Stomping On Microsoft Word
+        - [X] 6.7.2.1 Exercises
     - [ ] 6.8 Hiding PowerShell Inside VBA
       - [ ] 6.8.1 Detection of PowerShell Shellcode Runner
         - [ ] 6.8.1.1 Exercises
